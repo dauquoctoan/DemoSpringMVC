@@ -4,7 +4,7 @@
 <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
 <title>Trang-chủ</title>
 <body>
-	<p>${products.size()}</p>
+	<p>đây là size product:${products.size()}</p>
 	<!-- 
 Body Section 
 -->
